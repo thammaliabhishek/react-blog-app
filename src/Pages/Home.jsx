@@ -24,7 +24,7 @@ const Home = () => {
       </div>
       
       <div className="home__thir">
-      <h4>PORSCHE</h4>
+      <h4>Fitness</h4>
        <Link to='/technology'>   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb4Q83x0SiyQm_kFSNABpN-wqzGF-JHpQE8Q&usqp=CAU" alt="not found" /></Link>
           </div>
           <h1 style={{marginTop:"40px"}}>The Latest</h1>
